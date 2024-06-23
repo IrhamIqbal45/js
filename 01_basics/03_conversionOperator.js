@@ -17,3 +17,6 @@ console.log(booleanIsLoggedIn);
 let someNumber = "33"
 let stringNumber = String(someNumber)
 console.log(stringNumber);
+let Character = Symbol("634")
+
+console.log(typeof Character);
